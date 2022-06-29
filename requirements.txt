@@ -1,0 +1,25 @@
+appdirs
+arabic-reshaper
+asgiref
+astroid== 2.4.1
+autopep8
+colorama
+distlib
+Django
+#pdjango-crispy-forms
+django-easy-pdf
+filelock
+future
+html5lib
+Pillow
+pycodestyle
+pylint
+pytz
+reportlab
+six==1.12
+sqlparse
+toml
+#virtualenv
+virtualenvwrapper-win
+wrapt
+xhtml2pdf
